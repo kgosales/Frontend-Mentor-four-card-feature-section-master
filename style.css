@@ -69,6 +69,7 @@ header .paragraph {
   font-size: 18px;
   font-weight: 200;
   color: var(--grayish-blue);
+  margin-bottom: 20px;
 }
 .card-container {
   width: 100%;
